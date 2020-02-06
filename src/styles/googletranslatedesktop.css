@@ -1,0 +1,1059 @@
+@media (max-width: 425px) {
+  .background {
+    background-color: #777;
+  }
+
+  .bottomMenuItem {
+    height: 62px;
+    margin: auto 16px;
+    width: 62px;
+  }
+
+  .choicesOutside {
+    align-content: center;
+    color: #000000;
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .detailButtons {
+    display: flex;
+    flex-direction: row;
+    padding: 0 16px 16px;
+  }
+
+  .detailButtons2 {
+    background: #1A73E8;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    position: relative;
+    padding: 0 16px 16px;
+  }
+
+  .entireTranslate {
+    margin: auto;
+  }
+
+  .feedback {
+    color: gray;
+    font-size: 11px;
+    font-style: italic;
+    padding-right: 8px;
+    text-align: right;
+    width: 100%;
+  }
+
+  .hideOnMobile {
+    display: none;
+  }
+
+  .iconEmpty {
+    float: right;
+    justify-content: flex-end;
+    position: relative;
+    text-align: right;
+  }
+
+  .iconStar {
+    background: #1A73E8;
+    padding: 16px 16px 0 0;
+  }
+
+  .iconTranslateTo {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .iconVer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-left: 20px;
+    text-align: right;
+  }
+
+  .iconVol {
+    float: right;
+    justify-content: flex-end;
+    padding: 0 24px;
+    text-align: left;
+  }
+
+  .iconVolume {
+  }
+
+  .languageChoice1 {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .languagesContainer {
+    margin-left: auto;
+  }
+
+  .outputBottom {
+    border-left: 1px solid rgba(0,0,0,0.12);
+    color: white;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .outputContainer {
+    background: #1A73E8;
+    margin-left: -1px;
+    width: 101%;
+  }
+
+  .outputTxt {
+    background-color: #1A73E8;
+    margin-bottom: auto;
+  }
+
+  .outputTxtInside {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+  }
+
+  .signInButton11 {
+    background-color: #1A73E8;
+    border-radius: 4px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin: auto 8px auto 10px;
+    min-width: 93px;
+    padding: 8px 23px;
+  }
+
+  .squareBox {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .starIcon {
+    color: white;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .topMenuLeft {
+    color: #5f6368;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    font-size: 22px;
+    margin: 0;
+    overflow: hidden;
+  }
+
+  .topMenuRight {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .topMenuTranslate {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-height: 65px;
+    padding: 4px 4px 4px 8px;
+    max-width: 1280px;
+  }
+
+  .topWindowMenu {
+    overflow: hidden;
+  }
+
+  .translateBox {
+    border-bottom: 1px solid rgba(0,0,0,0.12);
+    color: rgb(0,0,0,0.54);
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    width: 100%;
+  }
+
+  .translateFrom {
+    display: flex;
+    flex-direction: column;
+    max-height: 160px;
+    overflow: hidden;
+    width: 47%;
+  }
+
+  .translateLogo {
+    overflow: hidden;
+  }
+
+  .translateTable {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 100%;
+  }
+
+  .translateBox {
+    border-top: 1px solid rgba(0,0,0,0.12);
+  }
+
+  .translateTo {
+    display: flex;
+    flex-direction: row;
+    max-height: 160px;
+    justify-content: space-around;
+  }
+
+  .typeInput {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    min-height: 133px;
+    width: 100%;
+  }
+
+  .typeOutput {
+    border-left: 1px solid rgba(0,0,0,0.12);
+    background-color: #1A73E8;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    min-height: 166px;
+    max-width: 100%;
+    padding: 16px;
+  }
+
+  .typeText {
+    font-size: 23px;
+    overflow: visible;
+    margin: 2px 16px 0 16px;
+    resize: none;
+    width: inherit;
+  }
+
+  .typeWords {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+
+  .typeWordsInside {
+    min-height: 133px;
+    overflow: visible;
+    padding: 16px 0;
+    width: 100%;
+  }
+}
+
+@media (min-width: 426px) and (max-width: 767px) {
+  .androidIcon {
+    padding: 13px 8px 8px;
+  }
+
+  .bottomMenuItem {
+    height: 62px;
+    margin: auto 16px;
+    width: 62px;
+  }
+
+  .choicesOutside {
+    align-content: center;
+    color: #000000;
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+  }
+
+  .closeButton {
+    padding: 14px 25px 0 0;
+  }
+
+  #content-desktop {
+    display: none;
+  }
+
+  .detailButtons2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 12px 25px 20px 28px;
+  }
+
+  .entireTranslate {
+    margin: auto;
+  }
+
+  .feedback {
+    color: gray;
+    font-size: 11px;
+    font-style: italic;
+    padding-right: 12px;
+    text-align: right;
+    width: 100%;
+  }
+
+  .iconEmpty {
+    margin-bottom: 6px;
+  }
+
+  .iconMic {
+    margin-right: 24px;
+  }
+
+  .iconStar {
+    padding: 14px 25px 0 0;
+  }
+
+  .iconVer {
+    margin-bottom: 6px;
+  }
+
+  .iconVolume {
+
+  }
+
+  .languageChoice1 {
+    border-bottom: 3px solid #4284f3;
+  }
+
+  .languagesContainer {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .maxChar {
+    display: flex;
+    flex-direction: row;
+    font-size: 12px;
+    justify-content: space-between;
+    margin: 12px 25px 20px 28px;
+  }
+
+  .outputContainer {
+    display: flex;
+    width: 100%;
+  }
+
+  .signInButton11 {
+    background-color: #1A73E8;
+    border-radius: 4px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin: auto;
+    padding: 8px 23px;
+  }
+
+  .squareBox {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .topMenuLeft {
+    color: #5f6368;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    font-size: 22px;
+    margin: 0 4px;
+    overflow: hidden;
+  }
+
+  .topMenuRight {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .topMenuTranslate {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-height: 65px;
+    padding: 8px 30px 8px 8px;
+    max-width: 1280px;
+  }
+
+  .translateBox {
+    border-top: 1px solid rgba(0,0,0,0.12);
+    color: rgb(0,0,0,0.54);
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    width: 100%;
+  }
+
+  .translateTable {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-height: 245px;
+    max-width: 1280px;
+  }
+
+  .typeInput {
+    min-height: 70px;
+    min-width: 100%;
+  }
+
+  .typeOutput {
+    padding: 20px 28px 0;
+    margin-bottom: auto;
+    width: 50%;
+  }
+
+  .typeText {
+    flex: 1;
+    overflow: visible;
+    padding: 20px 16px 18px 28px;
+  }
+
+  .typeWords {
+    border-top: 1px solid rgba(0,0,0,0.12);
+    color: #878787;
+    display: flex;
+    flex-direction: row;
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1439px) {
+  .androidIcon {
+    padding: 13px 8px 8px;
+  }
+
+  .bottomMenu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 98px;
+    width: 100%;
+  }
+
+  .bottomMenuItem {
+    height: 72px;
+    margin: auto 31px;
+    width: 72px;
+  }
+
+  .closeButton {
+    padding: 14px 25px 0 0;
+  }
+
+  .detailButtons2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 25px 20px 28px;
+    width: 100%;
+  }
+
+  .entireTranslate {
+    margin: auto;
+  }
+
+  .feedback {
+    color: gray;
+    font-size: 11px;
+    font-style: italic;
+    padding-right: 1px;
+    text-align: right;
+    width: 100%
+  }
+
+  .iconEmpty {
+    margin-bottom: 6px;
+  }
+
+  .iconMic {
+    margin-right: 24px;
+  }
+
+  .iconStar {
+    padding: 14px 25px 0 0;
+  }
+
+  .iconVer {
+    margin-bottom: 6px;
+    padding-left: 20px;
+  }
+
+  .iconVol {
+
+  }
+
+  .iconVolume {
+    margin-top: auto;
+  }
+
+  .languageChoice1 {
+    border-bottom: 3px solid #4284f3;
+  }
+
+  .languagesContainer {
+    display: flex;
+    flex-direction: row;
+    margin-right: auto;
+    overflow: scroll;
+  }
+
+  .maxChar {
+    display: flex;
+    flex-direction: row;
+    font-size: 12px;
+    justify-content: space-between;
+    margin: 12px 25px 20px 28px;
+  }
+
+  .outputContainer {
+    display: flex;
+    width: 100%;
+  }
+
+  .outputTxt {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: auto;
+    min-height: 70px;
+    width: 100%;
+  }
+
+  .outputTxtInside {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .signInButton11 {
+    background-color: #1A73E8;
+    border-radius: 4px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin: auto;
+    padding: 8px 23px;
+  }
+
+  .squareBox {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .starIcon {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .topMenuRight {
+    display: flex;
+    flex-direction: row;
+    float: right;
+    justify-content: flex-end;
+    position: relative;
+  }
+
+  .topMenuTranslate {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-height: 65px;
+    padding: 8px;
+    max-width: 1280px;
+  }
+
+  .translateBox {
+    border-bottom: 1px solid rgba(0,0,0,0.12);
+    border-top: 1px solid rgba(0,0,0,0.12);
+    color: rgb(0,0,0,0.54);
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    width: 100%;
+  }
+
+  .translateTable {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-height: 245px;
+    max-width: 1280px;
+  }
+
+  .typeInput {
+    min-height: 130px;
+    width: 50%;
+  }
+
+  .typeOutput {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    min-height: 70px;
+    padding: 20px 28px 18px;
+  }
+
+  .typeText {
+    flex: 1;
+    overflow: visible;
+    padding: 20px 90px 18px 28px;
+    min-height: 130px;
+  }
+
+  .typeWords {
+    border-top: 1px solid rgba(0,0,0,0.12);
+    color: #878787;
+    display: flex;
+    flex-direction: row;
+    font-size: 24px;
+  }
+
+  .wordLimit {
+    color: #777777;
+    font-size: 12px;
+    text-align: right;
+  }
+}
+
+@media (min-width: 1440px) {
+  .bottomMenuItem {
+    height: 72px;
+    margin: auto 31px;
+    width: 72px;
+  }
+
+  .closeButton {
+    padding: 14px 25px 0 0;
+  }
+
+  .detailButtons2 {
+    justify-content: space-between;
+    padding: 0 25px 20px 28px;
+  }
+
+  .feedback {
+    color: gray;
+    font-size: 11px;
+    font-style: italic;
+    padding-right: 78px;
+    padding-top: 7px;
+    text-align: right;
+    width: 100%
+  }
+
+  .iconEmpty {
+    margin-bottom: 6px;
+  }
+
+  .iconMic {
+    margin-right: 24px;
+  }
+
+  .iconStar {
+    padding: 14px 25px 0 0;
+  }
+
+  .iconVer {
+    margin-bottom: 6px;
+    padding-left: 20px;
+  }
+
+  .iconVolume {
+  }
+
+  .languageChoice1 {
+    border-bottom: 3px solid #4284f3;
+  }
+
+  .languagesContainer {
+    display: flex;
+    flex-direction: row;
+    margin-right: auto;
+    overflow: scroll;
+  }
+
+  .maxChar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px 28px 18px;
+  }
+
+  .outputContainer {
+    display: flex;
+    width: 100%;
+  }
+
+  .outputTxt {
+    margin-bottom: auto;
+  }
+
+  .signInButton11 {
+    background-color: #1A73E8;
+    border-radius: 4px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin: auto;
+    padding: 8px 23px;
+  }
+
+  .textButton {
+    background-color: rgb(66,133,244,0.12);
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    color: #1A73E8;
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    font-weight: 500;
+    justify-content: flex-start;
+    margin-left: 64px;
+    padding: 3px 15px;
+    text-align: center;
+  }
+
+  .topMenuTranslate2 {
+    position: fixed;
+    padding-bottom: 110px;
+    width: 100%;
+    z-index: 1;
+  }
+
+  .translateBox {
+    background: white;
+    border: 1px solid #919191;
+    border-radius: 9px;
+    box-shadow: 1px 1px #919191;
+    z-index: 6;
+  }
+
+  .translateTable {
+    border: none;
+    margin: 56px auto auto;
+    z-index: 6
+  }
+
+  .typeInput {
+    min-height: 70px;
+    min-width: 50%;
+  }
+
+  .typeOutput {
+    padding: 20px 28px 18px;
+  }
+
+  .typeText {
+    flex: 1;
+    overflow: visible;
+    padding: 20px 96px 18px 28px;
+  }
+}
+
+.androidIcon {
+  padding: 13px 8px 8px;
+}
+
+.arrowBothWay {
+  margin: auto;
+  padding-top: 3px;
+}
+
+.arrowDownIcon {
+  align-self: right;
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 11px;
+  text-align: right;
+}
+
+.bottomMenu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.bottomMenuItem {
+  background-color: white;
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 36px;
+  color: gray;
+  margin-bottom: 8px;
+  padding-top: 18px;
+  text-align: center;
+}
+
+.bottomMenuItemContainer {
+  color: gray;
+  font-weight: bold;
+}
+
+.choicesOutside {
+  align-content: center;
+  color: #000000;
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+  justify-content: space-between;
+  margin: auto auto 20px auto;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.closeButton {
+  display: flex;
+  flex-direction: row;
+  padding-right: 16px;
+}
+
+.detailButtons {
+  display: flex;
+  flex-direction: row;
+}
+
+.detailButtons2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.detectLanguage {
+  white-space: nowrap;
+}
+
+.docButton {
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 4px;
+  color: #1A73E8;
+  display: flex;
+  flex-direction: row;
+  font-size: 15px;
+  font-weight: 500;
+  margin-left: 11px;
+  padding: 3px 15px;
+  text-align: center;
+}
+
+.docButton p {
+  margin: auto auto auto 5px;
+}
+
+.feedback {
+  color: gray;
+  font-size: 11px;
+  font-style: italic;
+  text-align: right;
+  width: 100%
+}
+
+.googlelogo11 {
+  margin-top: 7px;
+  max-height: 35px;
+  max-width: 99px;
+}
+
+.gridIcon {
+  padding: 8px 0 12px 12px;
+}
+
+.insertDriveIcon {
+  padding-top: 3px;
+}
+
+.languageBar {
+  display: flex;
+  flex-direction: row;
+  max-height: 48px;
+  max-width: 100%;
+}
+
+.languageChoice {
+  font-size: 14px;
+  font-weight: bold;
+  flex-direction: row;
+  max-height: 48px;
+  margin: 15px 0;
+  padding: 0 24px;
+}
+
+.languageChoice1 {
+  color: #4284f3;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  max-height: 48px;
+  margin: 15px 24px 0 15px;
+  padding-bottom: 15px;
+  min-width: fit-content;
+}
+
+.languagesContainer {
+  margin-right: auto;
+}
+
+.outputBottom {
+  border-left: 1px solid rgba(0,0,0,0.12);
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 100%;
+  max-height: 100%;
+  min-width: 50%;
+  width: 100%;
+}
+
+.outputContainer {
+}
+
+.outputTxtInside {
+  color: black;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: auto;
+}
+
+.textButton {
+  background-color: rgb(66,133,244,0.12);
+  border: 1px solid #dadce0;
+  border-radius: 4px;
+  color: #1A73E8;
+  display: flex;
+  flex-direction: row;
+  font-size: 15px;
+  font-weight: 500;
+  justify-content: flex-start;
+  padding: 3px 15px;
+  text-align: center;
+}
+
+.textButton p {
+  margin: auto auto auto 5px;
+}
+
+.topMenuLeft {
+  color: #5f6368;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  font-size: 22px;
+  overflow: hidden;
+}
+
+.topMenuRight {
+  display: flex;
+  flex-direction: row;
+  float: right;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.topMenuTranslate {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-height: 65px;
+  padding: 8px;
+  max-width: 100%;
+}
+
+.translateBox {
+  border-bottom: 1px solid rgba(0,0,0,0.12);
+}
+
+.translateFrom {
+  display: flex;
+  flex-direction: row;
+  max-height: 48px;
+  overflow: hidden;
+  width: 46%;
+}
+
+.translateLogo {
+  font-size: 22px;
+  font-weight: 400;
+  margin: 10px 0 0 -10px;
+  overflow: hidden;
+}
+
+.translateTable {
+  display: flex;
+  flex-direction: column;
+  max-width: 1280px;
+}
+
+.translateTo {
+  display: flex;
+  flex-direction: row;
+  max-height: 48px;
+  overflow: hidden;
+  width: 46%;
+}
+
+.topMenuTranslate2 {
+  background-color: #f5f5f5;
+  border-top: 1px solid rgba(0,0,0,0.12);
+}
+
+.txtdocument {
+  display: flex;
+  flex-direction: row;
+  max-height: 65px;
+  max-width: 1278px;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.typeInput {
+  min-width: 50%;
+}
+
+.typeOutput {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  margin-bottom: auto;
+}
+
+.typeText {
+  color: black;
+  font-size: 23px;
+  flex: 1;
+  margin-right: auto;
+  overflow: visible;
+  resize: none;
+}
+
+.typeWords {
+  border-top: 1px solid rgba(0,0,0,0.12);
+  color: #878787;
+  display: flex;
+  flex-direction: row;
+  font-size: 24px;
+  max-width: 100%;
+}
+
+.typeWordsInside {
+  display: flex;
+  flex-direction: row;
+  overflow: visible;
+  max-width: 100%;
+}
+
+.wordLimit {
+  color: #777777;
+  font-size: 12px;
+  text-align: right;
+}

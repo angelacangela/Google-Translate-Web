@@ -1,0 +1,85 @@
+@media (min-width: 320px) and (max-width: 425px) {
+  .eachLanguage {
+    background-color: #FFFFFF;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    color: rgb(0,0,0,0.87);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 16px;
+    line-height: 44px;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 4px 69px;
+  }
+  .hideOnMobile {
+    display: none;
+  }
+}
+
+@media (min-width: 1440px) {
+  .iconClose20 {
+    justify-content: flex-end;
+    text-align: right;
+  }
+  .languageSelectorContainer {
+    background: white;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 49px;
+    overflow: scroll;
+    position: fixed;
+    width: 100%;
+  }
+  .translateFrom {
+    color: rgb(0,0,0,0.87);
+    display: flex;
+    flex-direction: row;
+    font-size: 24px;
+    max-height: 56px;
+    max-width: 1280px;
+    padding: 0 0 0 24px;
+  }
+}
+.allLanguages {
+  color: #777777;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0 10px 0 16px;
+}
+
+.eachLanguage {
+  background-color: #FFFFFF;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  color: rgb(0,0,0,0.87);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-size: 15px;
+  line-height: 30px;
+  margin: 0 0 4px;
+  margin-bottom: 4px;
+}
+
+.language20 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-height: 100%;
+}
+
+
+.languageSelectorContainer {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  margin-top: 49px;
+  overflow: scroll;
+  position: fixed;
+  width: 100%;
+}
